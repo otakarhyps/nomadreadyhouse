@@ -1,0 +1,30 @@
+Reviewer profile photos go here.
+
+Naming convention: firstname-lastname.jpg (lowercase, hyphenated)
+
+Examples:
+  nora-teglasi.jpg
+  peter-puszko.jpg
+  maurice-friedrich.jpg
+  maria-oehmichen.jpg
+  daniel-hoving.jpg
+  tereza-palkova.jpg
+  teresa-sainz.jpg
+  lisa-ols.jpg
+  katie.jpg
+  marti-omn.jpg
+  jan-vitek.jpg
+  marcia-costa.jpg
+  renato-passaniti.jpg
+  alessandro-paravano.jpg
+  gilles-wachsmuth.jpg
+  lucian-mai.jpg
+  peter.jpg (Airbnb Peter from Montreal)
+  john.jpg
+  reik.jpg
+  sara.jpg
+  miguel.jpg
+
+Photos should be square, minimum 88x88px (displayed at 44x44).
+The website will automatically use these photos when the filename matches
+the data-reviewer attribute on the avatar element.
